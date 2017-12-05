@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps 2 UberP2P</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_driver_map">Map</string>
+</resources>

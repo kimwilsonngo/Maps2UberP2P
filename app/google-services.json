@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989034356025",
+    "firebase_url": "https://maps-p2p.firebaseio.com",
+    "project_id": "maps-p2p",
+    "storage_bucket": "maps-p2p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989034356025:android:4e6095cbdc418a56",
+        "android_client_info": {
+          "package_name": "com.example.giga.maps2uberp2p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989034356025-gsdd5ckn1nfp6f6di4903n5uesdkbhvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giga.maps2uberp2p",
+            "certificate_hash": "f14f8db885fa93f108243dc83a17eee0ccfb0bd6"
+          }
+        },
+        {
+          "client_id": "989034356025-ba8r0g95f6jlmr8uiuvmorh49426a49d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBma_dQXsG4bG1ecdxeX_Qi2AHwffiACb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989034356025-ba8r0g95f6jlmr8uiuvmorh49426a49d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
